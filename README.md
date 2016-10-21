@@ -2,6 +2,10 @@
 
 Vortrag am 21.10.2016 auf dem ÖZBF-Kongress in Salzburg
 
+## PDF der Präsentation
+
+Ein PDF der Präsentation findet sich [hier](https://github.com/iTBH/2016-10-21-lebensbegleitende-eportfolios-oezbf-salzburg/blob/v1.0/build/2016-10-21-A_Duerkop_Lebensbegleitendes_E-Portfolio.pdf).
+
 ## Build the presentation
 
 This presentation was built with Markdown, [Pandoc](http://pandoc.org/MANUAL.html#producing-slide-shows-with-pandoc) and [Reveal.js](http://lab.hakim.se/reveal-js/#/).
