@@ -1,0 +1,59 @@
+/*Manuelle Anpassungen*/
+
+.reveal.center .slides {
+  /*width: 1100px !important;*/
+}
+
+.reveal h1 {
+  font-size: 1.8em;
+}
+
+.reveal h2 {
+  font-size: 1.3em;
+  font-weight: normal;
+  text-transform: none;
+}
+
+.reveal h3 {
+  font-size: 1.3em;
+  text-transform: none;
+}
+
+.reveal ul li, .reveal ol li {
+  margin-bottom: 10px;
+  font-size: .9em;
+}
+
+.reveal ul ul {
+  margin-top: 10px;
+}
+
+.reveal .level1 {
+  /*background: #09426b;*/
+}
+
+.reveal .level1 h1 {
+  /*color: #fff;*/
+}
+
+.reveal .level2 {
+  text-align: left;
+}
+
+/*Abbildungen*/
+.reveal section img {
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+    border: none;
+}
+
+/*Zitate*/
+
+.reveal blockquote {
+  box-shadow: none;
+}
+
+/*Logos*/
+
+div.reveal {
+  background: url(../../../../abb/tuhh_web_rgb_de_small.png) 10px 10px no-repeat, url(../../../../abb/itbh_web_rgb_de.png) right 10px no-repeat;
+}

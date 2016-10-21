@@ -1,0 +1,5 @@
+{
+    "commands": [
+        "main.md : pandoc -t revealjs -s main.md -o main.html -V revealjs-url={relPath}bower_components/reveal.js -V theme=sky -V history=true -V controls=false -V css=style.css -V center=true -V transition=fade --slide-level=2"
+    ]
+}
